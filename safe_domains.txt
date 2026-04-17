@@ -1,0 +1,81 @@
+# VirusTotal URL 평판 조회 시 제외할 안전 도메인 목록
+# 한 줄에 도메인 하나, #으로 시작하면 주석 처리
+# 이 파일을 편집하여 코드 수정 없이 도메인 추가/삭제 가능
+
+# Google 계열
+google.com
+googleapis.com
+gstatic.com
+googleusercontent.com
+googlevideo.com
+googletagmanager.com
+google-analytics.com
+
+# Microsoft 계열
+microsoft.com
+office.com
+live.com
+outlook.com
+office365.com
+microsoftonline.com
+azure.com
+windows.net
+bing.com
+msn.com
+
+# Apple
+apple.com
+icloud.com
+
+# Amazon / AWS
+amazon.com
+amazonaws.com
+amazonses.com
+
+# 자사 도메인
+#shinhan.com
+
+# SNS / 소셜
+linkedin.com
+facebook.com
+instagram.com
+twitter.com
+x.com
+youtube.com
+tiktok.com
+
+# 개발 / 기술
+github.com
+stackoverflow.com
+npmjs.com
+
+# 이메일 서비스
+mailchimp.com
+sendgrid.net
+constantcontact.com
+mailgun.com
+
+# 웹 표준 / CDN
+w3.org
+schema.org
+cloudflare.com
+akamaized.net
+fastly.net
+jsdelivr.net
+cdnjs.cloudflare.com
+
+# 폰트
+fonts.googleapis.com
+fonts.gstatic.com
+
+# 기타 알려진 서비스
+zoom.us
+slack.com
+salesforce.com
+adobe.com
+canva.com
+dropbox.com
+
+naver.com
+instagram.com
+youtube.com

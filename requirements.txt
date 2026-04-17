@@ -1,0 +1,9 @@
+pefile
+oletools
+python-magic-bin
+pdfid
+pikepdf
+vt-py
+selenium
+webdriver-manager
+openpyxl
